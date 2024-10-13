@@ -1,4 +1,6 @@
 I have uploaded some file after compressing bcz size of those files was more than  >  25 mb
+[Almost 0.5 GB]
+
 
 the jupyter file contain the recommender model
 and the new_app2 file contain the front-end
